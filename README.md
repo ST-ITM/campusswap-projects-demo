@@ -2,6 +2,12 @@
 
 A desktop application that helps students list and find used items for exchange.
 
+## Drum Machine
+
+Open `index.html` in a modern browser to use the standalone drum machine. Click
+the grid to program a beat, press Play to hear it, and adjust the tempo and
+volume with the sliders. Click a sound name or use keys 1–6 to play sounds live.
+
 ## Planned Features
 
 - Create listings with a title, category, and description.
